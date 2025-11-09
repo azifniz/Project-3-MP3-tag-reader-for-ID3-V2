@@ -27,8 +27,8 @@ It allows users to view and modify ID3v2 tags (like title, artist, album, year, 
 - For viewing, extracts and prints tag data in a clean format.
 
 # 📂 Project Structure
-├── main.c          # Entry point; handles mode selection (view/edit/help)
-├── operations.c    # Core logic for tag reading, editing, and validation
-├── operations.h    # Function declarations and structure definitions
-├── types.h         # User-defined enums and status types
-└── sample.mp3      # Example file for testing
+├── main.c          # Entry point; handles mode selection (view/edit/help)<br>
+├── operations.c    # Core logic for tag reading, editing, and validation<br>
+├── operations.h    # Function declarations and structure definitions<br>
+├── types.h         # User-defined enums and status types<br>
+└── sample.mp3      # Example file for testing<br>
